@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ilya Krasilnikov
+- 👋 Hi, I’m Ilya Krasilnikov. I'm a dedicated and detail-oriented digital technology specialist with strong business acumen and product led vision. 10+ years experience in building high-tech products for millions of users globally.
 - 👀 I’m interested in AI, GPT, language learning, making startups.
 - 💞️ I’m looking to collaborate on ed-tech foreign language learning startups.
 - 📫 How to reach me: i@k9v.co
